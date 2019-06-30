@@ -1,0 +1,44 @@
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\PComputer\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\WindowsForms\Mayın Tarlası\MineSweeperKEREMUZUN\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb

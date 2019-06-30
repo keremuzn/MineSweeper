@@ -1,0 +1,28 @@
+﻿kerem 66
+Ahmet 4
+Ahmet 0
+kerem 3  16 Mart 2019 Cumartesi
+keremuzun 2  16.03.2019 14:01:29
+kerem 27  16.03.2019 16:08:34
+kerem 8  16.03.2019 16:10:03
+kerem uzun 4  18.03.2019 00:01:20
+kerem uzun 0  18.03.2019 00:01:51
+kerem uzun Score : 90  Date : 18.03.2019 00:08:25
+kerem uzun 0  18.03.2019 08:48:58
+kerem uzun 13  18.03.2019 08:49:46
+kerem trying again  Score : 0  Date : 18.03.2019 08:59:19
+kerem trying again  Score : 90  Date : 18.03.2019 09:02:48
+kerem Score : 20  Date : 18.03.2019 09:04:41
+Lose => kerem Score : 0  Date : 18.03.2019 09:07:46
+Lose => kerem Score : 2  Date : 18.03.2019 09:08:45
+Win => kerem Score : 20  Date : 18.03.2019 10:02:32
+Lose => kerem Score : 6  Date : 18.03.2019 21:08:35
+Lose => engin Score : 19  Date : 18.03.2019 23:53:30
+Lose => ekrem Score : 0  Date : 24.03.2019 16:02:23
+Win => ekrem Score : 24  Date : 24.03.2019 16:03:16
+Lose => ekrem Score : 12  Date : 24.03.2019 16:04:08
+Lose => ekrem Score : 17  Date : 24.03.2019 16:04:55
+Lose => kerem Score : 14  Date : 5.05.2019 12:02:34
+Lose => oguz Score : 15  Date : 30.06.2019 16:58:37
+Lose => oguz Score : 15  Date : 30.06.2019 16:59:16
+Win => oguz Score : 30  Date : 30.06.2019 17:01:36
